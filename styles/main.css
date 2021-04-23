@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration:  none;
+}
+title {
+    font-size: 30pt;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bolder;
+}        
+
+body {
+    background-color: #4c4a59;
+    
+    font-size: 20pt;
+    margin-bottom: 134px;
+    font-family: 'Titillium Web', sans-serif;
+    color: white; 
+    }
+
+.topheader {
+    background-color:#383838;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+    max-height: 100px;
+}
+.main-name {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    text-decoration: none;
+}
+.topheaderlinks {
+    align-self: centre;
+    margin-left: auto;
+    display: block;
+}
+/*.home {
+    padding: 10px;
+}
+*/
+a {
+    color:white; 
+}
+head {
+    display: none;
+}
+h1 {
+    text-align: center;
+    margin-top:20px;
+}
+h2 {
+    text-align: center;
+    font-size: 15pt;
+    font: normal;
+    margin-left: 20px;
+}
+.dance {
+    display: block;
+    height:auto;
+    margin-top: 0px;
+    margin-left:auto;
+    margin-right:auto;
+    transform: scale(0.7);
+}
+.block {
+    display: block;
+}
+.sourcelinks {
+    font-size: 10pt;
+    margin-top:50px;
+    margin-left: 20px;
+    text-align:right;
+}
+p {
+    font-size: 14pt;
+    margin-left: 20px;
+    margin-right: 100px;
+}
+
+span.a {
+    display: inline; /* the default for span */
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+    border: 1px solid red;  
+    background-color: white; 
+    color: black;
+    font-weight:bold;
+  }
+  
+span.b {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+    border: 1px solid red;  
+    background-color: white; 
+    color: black;
+    font-weight:bold;
+  }
+
+
+
+  
