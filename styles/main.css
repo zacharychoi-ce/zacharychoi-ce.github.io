@@ -75,12 +75,18 @@ h2 {
     margin-left: 20px;
     text-align:center;
 }
+.bloglists {
+    font-size: 30pt;
+    margin-top:50px;
+    margin-left: 80px;
+    text-align:left;
+}
+
 p {
     font-size: 14pt;
     margin-left: 40px;
     margin-right: 300px;
 }
-
 
 span.a {
     display: inline; /* the default for span */
